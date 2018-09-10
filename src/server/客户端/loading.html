@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="//at.alicdn.com/t/font_785174_199vc87typa.css" />
+		<style type="text/css">
+			* {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+			}
+			body{
+				background-color: lightgrey
+			}
+			
+			.content {
+				position: relative;
+				width: 100vw;
+				height: 100vh;
+			}		
+			.error {
+				margin: 0 auto;
+				width: 300px;
+				height: 50px;
+				display: flex;
+				flex-direction: row;
+				line-height: 50px;
+				background-color: #EDF2FC;
+				color: red;
+				padding-left: 20px;
+				box-sizing: border-box;
+				opacity: 0;
+			}
+			
+			.wrap {
+				position: relative;
+				margin: 0 auto;
+				margin-top: 5%;
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				width: 25vw;
+				height:auto;
+				min-width: 300px;
+				background-color: #efefef;
+				box-sizing: border-box;
+				padding: 0 20px;
+			}
+			
+			.wrap>div {
+				margin: 5px 0;
+			}
+			
+			.wrap .logo-cook i {
+				font-size: 50px;
+				color: #F4B031;
+			}
+			
+			.form-load form>div {
+				margin-top: 20px;
+				margin-bottom: 10px;
+			}
+			
+			.form-load form>div span:nth-child(1) {
+				display: inline-block;
+				width: 80px;
+				text-align: right;
+				margin-right: 10px;
+			}
+			
+			.form-load form>div input:nth-child(2) {
+				display: inline-block;
+				height: 15px;
+				padding: 5px 5px;
+			}
+			.button{
+				width: 80px;
+				margin: 0 auto;
+				display: flex;
+				justify-content: space-between;
+			}
+			.anto>span{
+				font-size: 15px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="content">
+			<div class="error">
+				<i class="iconfont icon-cuowu"></i>
+				<h4>信息不完整</h4>
+			</div>
+			<div class="wrap">
+				<div class="logo-cook">
+					<i class="iconfont icon-chushi"></i>
+				</div>
+				<div class="form-load">
+					<form>
+						<div class="admin">
+							<span>用户名</span><input type="text" error="用户名" name="username" id="username" />
+						</div>
+						<div class="pas">
+							<span>密码</span><input type="password" name="password" id="password" />
+						</div>
+						<div class="twopas">
+							<span>确认密码</span><input type="password" name="twoword" id="twoword" />
+						</div>
+						<div class="ple">
+							<span>手机号码</span><input type="text" name="telphone" id="telephone" />
+						</div>
+						<p class="button">
+							<input type="button" value="注册" id="submit" />
+							<input type="reset" value="重置" />
+						</p>
+					</form>
+				</div>
+				<div class="anto">
+					<p>我有账号
+						<a href="login.html">点击登录</a>
+					</p>
+					<span>吃了么点餐系统最终隶属于起凡科技旗下产品，最终解释权归属本公司</span>
+					
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript" src="js/jquery-3.3.1.min.js" ></script>
+		
+		<script type="text/javascript" src="js/index.js" ></script>
+	</body>
+
+</html>

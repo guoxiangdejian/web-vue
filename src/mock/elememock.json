@@ -1,0 +1,2710 @@
+{
+    "_id" : ObjectId("5b7cbd647075c0b9f09fc6dc"),
+    "infolist" : [ 
+        [ 
+            {
+                "imgsrc" : "https://m.360buyimg.com/mobilecms/s828x404_jfs/t23023/51/2312304702/207452/1815e01/5b7ba45eN175b90a2.jpg!cr_1125x549_0_72!q70.jpg.dpg"
+            }, 
+            {
+                "imgsrc" : "https://img1.360buyimg.com/da/s828x404_jfs/t24133/297/2313087107/89224/493dfa85/5b7b798aN562ceb08.jpg!cr_1125x549_0_72.dpg"
+            }, 
+            {
+                "imgsrc" : "https://m.360buyimg.com/mobilecms/s828x404_jfs/t25666/187/794677649/284847/31dd8e06/5b7bea1eNc6f14315.jpg!cr_1125x549_0_72!q70.jpg.dpg"
+            }, 
+            {
+                "imgsrc" : "https://m.360buyimg.com/mobilecms/s828x404_jfs/t20110/75/2564549044/190624/3eae702e/5b7bcca8Ne9cbc958.jpg!cr_1125x549_0_72!q70.jpg.dpg"
+            }
+        ], 
+        [ 
+            {
+                "iconsrc" : "https://fuss10.elemecdn.com/d/49/7757ff22e8ab28e7dfa5f7e2c2692jpeg.jpeg",
+                "iconname" : "早餐"
+            }, 
+            {
+                "iconsrc" : "https://fuss10.elemecdn.com/2/35/696aa5cf9820adada9b11a3d14bf5jpeg.jpeg",
+                "iconname" : "甜品"
+            }, 
+            {
+                "iconsrc" : "https://fuss10.elemecdn.com/3/84/8e031bf7b3c036b4ec19edff16e46jpeg.jpeg",
+                "iconname" : "准时达"
+            }, 
+            {
+                "iconsrc" : "https://fuss10.elemecdn.com/8/83/171fd98b85dee3b3f4243b7459b48jpeg.jpeg",
+                "iconname" : "鲜花蛋糕"
+            }, 
+            {
+                "iconsrc" : "https://fuss10.elemecdn.com/e/7e/02b72b5e63c127d5bfae57b8e4ab1jpeg.jpeg",
+                "iconname" : "土豪推荐"
+            }, 
+            {
+                "iconsrc" : "https://fuss10.elemecdn.com/b/7e/d1890cf73ae6f2adb97caa39de7fcjpeg.jpeg",
+                "iconname" : "美食"
+            }, 
+            {
+                "iconsrc" : "https://fuss10.elemecdn.com/4/34/ea0d51c9608310cf41faa5de6b8efjpeg.jpeg",
+                "iconname" : "果蔬生鲜"
+            }, 
+            {
+                "iconsrc" : "https://fuss10.elemecdn.com/0/da/f42235e6929a5cb0e7013115ce78djpeg.jpeg",
+                "iconname" : "超市便利"
+            }
+        ], 
+        [ 
+            {
+                "shopName" : "华莱士",
+                "shopImg" : "//fuss10.elemecdn.com/d/a6/da3a472229a4de49b12f64e993ed9png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 3.5,
+                "shopSale" : 124,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "汉堡",
+                "shopPZLM" : true,
+                "shopTime" : "21",
+                "shopDistance" : 1.13,
+                "code" : "1",
+                "priceDif" : 20,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/bd/bec422eb70f676c39c0dbefc32b34jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡翅+墨西哥鸡肉卷+可乐",
+                            "shopScore" : 90,
+                            "shopSale" : 104,
+                            "shopMoney" : 19.8,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/5/46/12a5bda75a8b008c1cc3c41165e18jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "至尊虾堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "打折",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "鸡肉",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "汉堡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "饮料",
+                            "sohpTypeInfo" : "冰爽可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/0/0d/484a0bd703d8770bae6905ef5d624jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "香辣鸡腿堡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 11.6,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "优惠",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "鸡肉",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "汉堡",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "饮料",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "山西名吃刀削面",
+                "shopImg" : "//fuss10.elemecdn.com/7/0f/dc0d6b2380e1902263efdf43cfbd2jpeg.jpeg?imageMogr/format/webp/thumbnail/150x/",
+                "shopScore" : 4.4,
+                "shopSale" : 1201,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "面食",
+                "shopPZLM" : true,
+                "shopTime" : "21",
+                "shopDistance" : 0.65,
+                "code" : "2",
+                "priceDif" : 15,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/9/98/2cef9089407bc16092399ec91966fjpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "单人餐大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 104,
+                            "shopMoney" : 15,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡单人餐",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/d/d4/6d33756f3b2dc2bc4890fcabb88dbjpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "饺子",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "主餐类",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "小食类",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热销",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "新餐上市",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "主餐类",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "小食类",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "新纳西汉堡炸鸡（龙湖锦艺城店）",
+                "shopImg" : "//fuss10.elemecdn.com/c/92/32c5a8dd68e140d3cae0ad613ca89png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.7,
+                "shopSale" : 226,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "汉堡",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 1.99,
+                "code" : "3",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "爱上酸菜鱼",
+                "shopImg" : "//fuss10.elemecdn.com/8/ea/646481c15a47534057f86568cd538jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.4,
+                "shopSale" : 1206,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "川湘菜",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 1.69,
+                "code" : "4",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "麦当劳(新郑龙湖汽车餐厅)",
+                "shopImg" : "//fuss10.elemecdn.com/8/04/7d35cb2dead252d564889b0086460png.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.6,
+                "shopSale" : 266,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "汉堡",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 1.19,
+                "code" : "5",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "姐弟俩自由人",
+                "shopImg" : "//fuss10.elemecdn.com/9/c8/76f986447d593e51271f4f750d84apng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.8,
+                "shopSale" : 306,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "米粉面馆",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 1.19,
+                "code" : "6",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "超跑龙虾烧烤虾尾(龙湖店)",
+                "shopImg" : "//fuss10.elemecdn.com/e/72/bf04305a18ee4d07aa31f8e295d3apng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.9,
+                "shopSale" : 306,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "烧烤",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 1.09,
+                "code" : "7",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "金麦蛋糕(省电视台店)",
+                "shopImg" : "//fuss10.elemecdn.com/3/86/1b7394175d73cfe460e6fcca307bfpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.6,
+                "shopSale" : 306,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "甜品",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 0.89,
+                "code" : "8",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "秘制藤椒鸡米饭",
+                "shopImg" : "//fuss10.elemecdn.com/c/8f/dc8ff091439f125263fa7151b1875jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.85,
+                "shopSale" : 306,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "简餐",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 0.69,
+                "code" : "9",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "唐风阁肉夹馍(万佳广场店)",
+                "shopImg" : "//fuss10.elemecdn.com/f/8b/a24b9d2058a9eebf65b6b1fcab10djpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.6,
+                "shopSale" : 345,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "地方小吃",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 0.55,
+                "code" : "10",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "史莱克小吃店",
+                "shopImg" : "//fuss10.elemecdn.com/8/e9/0cd38f14a4b3d64c817f44c53f740jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.5,
+                "shopSale" : 678,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "地方小吃",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 0.35,
+                "code" : "11",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "千椒百味麻辣香锅",
+                "shopImg" : "//fuss10.elemecdn.com/7/18/2a3dc529856823cc070d42146b9c7jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.8,
+                "shopSale" : 321,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "川湘菜",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 0.15,
+                "code" : "12",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "德克士(龙湖美联店)",
+                "shopImg" : "//fuss10.elemecdn.com/0/38/50a60507068393970e7ee42f78459jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.3,
+                "shopSale" : 123,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "汉堡",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 0.35,
+                "code" : "13",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "粥面故事",
+                "shopImg" : "//fuss10.elemecdn.com/e/fe/05fc1b1c467130c230c490e28b86apng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.6,
+                "shopSale" : 232,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "汉堡",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 0.35,
+                "code" : "14",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }, 
+            {
+                "shopName" : "阿俊牛肉木桶饭",
+                "shopImg" : "//fuss10.elemecdn.com/2/f0/5f97b2bd09534ef7e38b577e1af61jpeg.jpeg?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+                "shopScore" : 4.75,
+                "shopSale" : 456,
+                "shopMcon" : 20,
+                "shopDis" : 2,
+                "shopClass" : "简餐",
+                "shopPZLM" : true,
+                "shopTime" : "26",
+                "shopDistance" : 0.26,
+                "code" : "15",
+                "priceDif" : 18,
+                "goodDetail" : [ 
+                    [ 
+                        {
+                            "sohpType" : "热销",
+                            "sohpTypeInfo" : "热销信息",
+                            "shopImg" : "//fuss10.elemecdn.com/e/f5/70335b60fecef7f9d0f775c8aadb6jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "a香辣鸡腿堡",
+                            "shopScore" : 100,
+                            "shopSale" : 218,
+                            "shopMoney" : 12,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/8/20/bdf2e91e7c617e631e221b92c4d30jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "老北京鸡肉卷",
+                            "shopScore" : 100,
+                            "shopSale" : 118,
+                            "shopMoney" : 8,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "新餐上市",
+                            "sohpTypeInfo" : "劲爆超值~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/38/6842e2447c03bf96852ac7e4590c4jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新藤椒鸡块",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/c/de/d94dfd0e4cd77ad6869ac86a94021jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "新香辣鸡翅",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 24,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "套餐",
+                            "sohpTypeInfo" : "鲜嫩多汁~！",
+                            "shopImg" : "//fuss10.elemecdn.com/1/66/023a8f32e5e6277f412e57547ec7ajpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "豪华三人大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 52,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ], 
+                    [ 
+                        {
+                            "sohpType" : "大盘鸡",
+                            "sohpTypeInfo" : "美味可口~！",
+                            "shopImg" : "//fuss10.elemecdn.com/a/59/7cec8b305b91ee79423db7752234ejpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "经典大盘鸡",
+                            "shopScore" : 90,
+                            "shopSale" : 169,
+                            "shopMoney" : 38,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }, 
+                        {
+                            "shopImg" : "//fuss10.elemecdn.com/3/05/929e2ff1b44b9fb2eebbdaad16749jpeg.jpeg?imageMogr/format/webp/thumbnail/!140x140r/gravity/Center/crop/140x140/",
+                            "shopName" : "刀削面",
+                            "shopScore" : 100,
+                            "shopSale" : 169,
+                            "shopMoney" : 3,
+                            "shopNumber" : 0
+                        }
+                    ]
+                ],
+                "goodsAllType" : [ 
+                    {
+                        "listone" : "热卖",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡单人餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "套餐",
+                        "listNumber" : 0
+                    }, 
+                    {
+                        "listone" : "大盘鸡",
+                        "listNumber" : 0
+                    }
+                ]
+            }
+        ]
+    ],
+    "code" : "123456789"
+}
