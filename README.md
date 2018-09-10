@@ -4,7 +4,7 @@
 # 技术栈
 vue2 + vuex + vue-router + webpack + ES6/7 + axios + less + flex + svg + node.js + koa2 + MongoDB
 # 效果演示
-项目演示地址：<a href="http://106.15.191.163:8080">点击查看Demo</a>（请使用谷歌浏览器手机模式预览）
+<a href="http://106.15.191.163:8080">点击查看Demo</a>（请使用谷歌浏览器手机模式预览）
 # 项目运行
 <h2>注意：由于涉及大量的 ES6/7 等新属性，node 需要 6.0 以上版本</h2>
 
